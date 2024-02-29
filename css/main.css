@@ -5,6 +5,24 @@ header{
 }
 */
 
+body{
+    background-color: black !important;
+    
+}
+
+h3{
+ color: white ;
+}
+
+.titleco{
+    color: black;
+}
+
+h1{
+    color: white;
+}
+
+
 .r-image{
     height: 150px;
 }
@@ -12,5 +30,10 @@ header{
 
 
 a{
-    color: black !important;
+    color: white !important;
 }
+
+img{
+    border-radius: 10px;
+}
+

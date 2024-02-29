@@ -48,7 +48,7 @@ async function getDetails(recipeId) {
 
     var recipe=`
     <img src='${recipeInfo.image_url}' class="w-100 r-image">
-    <h3>${recipeInfo.title}</h3>
+    <h3 class="titleco">${recipeInfo.title}</h3>
     `
     document.getElementById('recipeData').innerHTML=recipe;
 }
