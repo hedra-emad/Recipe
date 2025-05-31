@@ -1,4 +1,4 @@
-Description:
+# Description:
 Recipe is a beautifully designed front-end application that showcases a diverse collection of recipes with detailed instructions.
 Each recipe is presented with essential details such as ingredients, step-by-step cooking instructions, prep time, and nutritional information.
 Additionally, Recipe includes a source link for users to explore the original recipe or similar variations, providing more in-depth information and cooking tips.
